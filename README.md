@@ -8,7 +8,7 @@ author:
 
 # Blockchain: Laboratory 2. NaiveCoin
 
-*Denis Shmorgun, Danilo Ruban, Ivan Zhytkevych*
+*Danylo Shmorhun, Denys Ruban, Ivan Zhydkevych*
 
 ---
 
