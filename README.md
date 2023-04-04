@@ -1,9 +1,9 @@
 ---
 title: Laboratory 2. NaiveCoin
 author:
-- Denis Shmorgun
-- Danilo Ruban
-- Ivan Zhytkevych
+- Danylo Shmorhun
+- Denys Ruban
+- Ivan Zhydkevych
 ---
 
 # Blockchain: Laboratory 2. NaiveCoin
