@@ -1,0 +1,3 @@
+[submodule "naivecoin"]
+	path = naivecoin
+	url = https://github.com/lhartikk/naivecoin/

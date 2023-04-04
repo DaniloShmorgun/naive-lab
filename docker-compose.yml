@@ -1,0 +1,25 @@
+services:
+  node1:
+    build: .
+    container_name: node1
+    ports:
+      - 5001:3001
+
+  node2:
+    build: .
+    container_name: node2
+    ports:
+      - 5002:3001
+
+  node3:
+    build: .
+    container_name: node3
+    ports:
+      - 5003:3001
+
+  node4:
+    build: .
+    container_name: node4
+    ports:
+      - 5004:3001
+
