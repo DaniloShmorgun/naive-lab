@@ -3,12 +3,12 @@ title: Laboratory 2. NaiveCoin
 author:
 - Danylo Shmorhun
 - Denys Ruban
-- Ivan Zhydkevych
+- Ivan Zhytkevych
 ---
 
 # Blockchain: Laboratory 2. NaiveCoin
 
-*Danylo Shmorhun, Denys Ruban, Ivan Zhydkevych*
+*Danylo Shmorhun, Denys Ruban, Ivan Zhytkevych*
 
 ---
 
